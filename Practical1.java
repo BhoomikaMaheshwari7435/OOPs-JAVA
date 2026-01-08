@@ -3,7 +3,8 @@ public class Practical1{
 	public static void main(String[] args){
 	Scanner sc = new Scanner(System.in);
 
-	System.out.println("\nEnrollment No. : 240390107020");
+	System.out.println("\nBhoomika Maheshwari");
+	System.out.println("Enrollment No.: 240390107020\n");
 	System.out.println("Enter The Meters To Convert: ");
 	double meter = sc.nextDouble();
 	
@@ -15,3 +16,4 @@ public class Practical1{
 	}
 
 }
+
