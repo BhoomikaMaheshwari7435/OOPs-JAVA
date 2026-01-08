@@ -20,7 +20,9 @@ public class Practical6{
 		if(digit == 10){
 			digit = 0;
 		}
+		
 		System.out.print(digit);
 		}
 	}
 }
+
