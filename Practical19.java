@@ -37,6 +37,8 @@ class Main {
 
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("\nBhoomika Maheshwari");
+		System.out.println("240390107020\n");
         System.out.print("Enter College Name: ");
         String cname = sc.nextLine();
 
@@ -47,4 +49,5 @@ class Main {
         a.accept();
         a.display();
     }
+
 }
