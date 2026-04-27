@@ -37,7 +37,6 @@ class T2 extends Thread {
         t.printTable(7);
     }
 }
-
 public class Practical40 {
     public static void main(String[] args) {
 	
@@ -45,10 +44,8 @@ public class Practical40 {
 		System.out.println("\nEnrollment Number: 240390107020\n");
 
         Table t = new Table();
-
         T1 t1 = new T1(t);
         T2 t2 = new T2(t);
-
         t1.start();
         t2.start();
     }
